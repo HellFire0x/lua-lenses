@@ -2,6 +2,8 @@
 
 A powerful and flexible functional lens library for Lua that provides safe object property access and manipulation. Lenses allow you to focus on specific parts of nested data structures and perform operations like getting, setting, and immutable updates.
 
+[Documentation](https://github.com/HellFire0x/lua-lenses/wiki/Docs)
+
 ## Features
 
 - Safe access to deeply nested table structures
